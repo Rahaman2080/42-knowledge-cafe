@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://i.ibb.co/0t4HzM4/1.jpg",
+      "cover": "/src/images/5.png",
       "title": "How to get your first job as a self-taught programmer",
       "author": "Moniruzzaman",
       "author_img": "/src/images/boy2.png",
@@ -31,13 +31,33 @@
     },
     {
       "id": 4,
-      "cover": "https://i.ibb.co/L67mH99/3.png",
+      "cover": "/src/images/6.png",
       "title": "How to get your first job as a self-taught programmer",
       "author": "Saima Akter",
       "author_img": "/src/images/girl2.jpg",
       "posted_date": "19 May 2023",
       "reading_time": 4,
-      "hashtags": ["technology", "innovation"]
+      "hashtags": ["MernStack", "WD"]
+    },
+    {
+      "id": 5,
+      "cover": "/src/images/1.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Taslima Akter",
+      "author_img": "/src/images/girl2.jpg",
+      "posted_date": "19 May 2023",
+      "reading_time": 30,
+      "hashtags": ["technology", "MongoBD"]
+    },
+    {
+      "id": 6,
+      "cover": "/src/images/3.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Rupa Akter",
+      "author_img": "/src/images/girl2.jpg",
+      "posted_date": "19 May 2023",
+      "reading_time": 40,
+      "hashtags": ["Node js", "Next js"]
     }
   ]
   
