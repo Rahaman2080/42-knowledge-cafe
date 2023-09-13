@@ -2,38 +2,42 @@
     {
       "id": 1,
       "cover": "https://i.ibb.co/D5GfnDt/2.png",
-      "title": "The Adventure Begins",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Abdur Rahman",
       "author_img": "/src/images/boy1.png",
-      "posted_date": "2023-09-13",
+      "posted_date": "13 Aug 2023",
       "reading_time": 1,
-      "hashtags": ["adventure", "fiction", "start"]
+      "hashtags": ["JavaScript", "React"]
     },
     {
       "id": 2,
       "cover": "https://i.ibb.co/vXk0JQJ/4.jpg",
-      "title": "Mystery in the Mansion",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Lija Moni",
       "author_img": "/src/images/girl1.jpg",
-      "posted_date": "2023-09-12",
+      "posted_date": "10 July 2023",
       "reading_time": 3,
-      "hashtags": ["mystery", "detective", "intrigue"]
+      "hashtags": ["mystery", "detective"]
     },
     {
       "id": 3,
       "cover": "https://i.ibb.co/0t4HzM4/1.jpg",
-      "title": "Cooking with Passion",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Moniruzzaman",
       "author_img": "/src/images/boy2.png",
-      "posted_date": "2023-09-11",
+      "posted_date": "5 Jun 2023",
       "reading_time": 5,
-      "hashtags": ["cooking", "recipes", "foodie"]
+      "hashtags": ["cooking", "recipes"]
     },
     {
       "id": 4,
       "cover": "https://i.ibb.co/L67mH99/3.png",
-      "title": "Tech Trends 2023",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Saima Akter",
       "author_img": "/src/images/girl2.jpg",
-      "posted_date": "2023-09-10",
+      "posted_date": "19 May 2023",
       "reading_time": 4,
-      "hashtags": ["technology", "trends", "innovation"]
+      "hashtags": ["technology", "innovation"]
     }
   ]
   
